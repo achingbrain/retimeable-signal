@@ -1,6 +1,6 @@
 {
   "name": "retimeable-signal",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "An AbortSignal that fires on a resetable timeout",
   "author": "Alex Potsides <alex@achingbrain.net>",
   "license": "Apache-2.0 OR MIT",
