@@ -139,6 +139,6 @@
   "devDependencies": {
     "aegir": "^45.0.7",
     "delay": "^6.0.0",
-    "p-event": "^6.0.1"
+    "p-event": "^7.0.0"
   }
 }
